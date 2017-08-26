@@ -1,0 +1,10 @@
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\bin\Debug\ProjectoAI.exe
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\bin\Debug\ProjectoAI.pdb
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\bin\Debug\ProjectoAI.xml
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\obj\Debug\ResolveAssemblyReference.cache
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\obj\Debug\ProjectoAI.simulador.resources
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\obj\Debug\ProjectoAI.Resources.resources
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\obj\Debug\ProjectoAI.vbproj.GenerateResource.Cache
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\obj\Debug\ProjectoAI.exe
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\obj\Debug\ProjectoAI.xml
+E:\PauloSilva\ULP\3_Ano\1_Semestre\InteligenciaArtificial\Trabalho\ProjectoAI\ProjectoAI\obj\Debug\ProjectoAI.pdb
